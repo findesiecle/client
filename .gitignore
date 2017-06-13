@@ -1,0 +1,26 @@
+/**/__pycache__/
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+build/
+dist/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+
+*.egg-info/
+*.egg
+.Python
+.installed.cfg
+
+# PyCharm project settings
+.idea/
+
+# Sphinx documentation
+docs/_build/
